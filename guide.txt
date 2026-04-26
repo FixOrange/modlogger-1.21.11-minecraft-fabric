@@ -1,0 +1,11 @@
+Ru:
+Откройте файл fabric-example-mod-1.21/src/client/java/com/example/ExampleMod.java в блокноте, поменяйте discord webhook here на свой, откройте CMD, напишите cd "путь до fabric-example-mod-1.21"
+И напишите gradlew clean
+Затем gradlew build
+Дождитесь конца и готовый мод будет лежать в build/libs
+Eng:
+Open fabric-example-mod-1.21/src/client/java/com/example/ExampleMod.java in Notepad, replace the (discord webhook here) with your own, open CMD, and type cd "path to fabric-example-mod-1.21"
+And type: 
+gradlew clean
+gradlew build
+Wait until it's finished, and the finished mod will be in build/libs
